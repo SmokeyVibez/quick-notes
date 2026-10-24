@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Type=Application
+Name=Quick Notes
+Exec=/var/home/jmunoz/quicknotes-app/quicknotes
+Icon=knotes
+Terminal=False

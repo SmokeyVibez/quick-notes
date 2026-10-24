@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33898139/README.md)
 # Quick Notes
 
 A small notes app for Linux (KDE). One window, one menu:
