@@ -14,8 +14,9 @@ Every window carries the title "Quick Notes" and the notes icon, and the windows
 Notes are saved in a plain text file named `notebook.txt` that lives in the same folder as the app. Nothing is sent anywhere — everything stays on your computer.
 
 
-<img width="570" height="154" alt="quicknotesapp2" src="https://github.com/user-attachments/assets/0b0fcda5-86fc-40a8-8a66-aa55a523942b" />
 <img width="284" height="315" alt="quicknotesapp" src="https://github.com/user-attachments/assets/13170966-d5ac-4eb4-83b0-5a513b58f81c" />
+<img width="570" height="154" alt="quicknotesapp2" src="https://github.com/user-attachments/assets/0b0fcda5-86fc-40a8-8a66-aa55a523942b" />
+
 
 
 ## What you need
